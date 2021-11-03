@@ -1,0 +1,35 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.b{
+    padding: 100px;
+    color: rgb(35, 2, 97);
+    font-size:medium;
+    font-weight: bold;
+}
+
+body{
+    background-size: cover;
+}
+.back{
+    text-decoration: none;
+    color: purple;
+    margin-right: 30px;
+    padding:2px;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-style: italic;
+    border: black;
+}
+#sub{
+    color: aliceblue;
+    font-weight: bold;
+}
+#sub:hover{
+    text-decoration: none;
+    
+    
+    
+
+}

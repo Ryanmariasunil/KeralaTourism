@@ -1,0 +1,29 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    background-size: cover;
+}
+#i{
+    height: 200px;
+    padding-top: 100px;
+}
+a{
+    color:darkblue;   
+    font-size: medium;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    
+}
+.back{
+    text-decoration: none;
+    color: purple;
+    margin: 50px;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-style: italic;
+    border: black;
+}
